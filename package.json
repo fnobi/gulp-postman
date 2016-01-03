@@ -1,14 +1,14 @@
 {
-  "name": "gulp-hinagata-plugin-gulp",
+  "name": "gulp-postman",
   "version": "0.0.0",
-  "description": "gulp hinagata-plugin-gulp plugin.",
+  "description": "gulp postman plugin.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fnobi/hinagata-plugin-gulp.git"
+    "url": "git+ssh://git@github.com/fnobi/postman.git"
   },
   "keywords": [
     "gulp"
@@ -29,7 +29,7 @@
     "mocha": "1.11.*"
   },
   "bugs": {
-    "url": "https://github.com/fnobi/hinagata-plugin-gulp/issues"
+    "url": "https://github.com/fnobi/postman/issues"
   },
-  "homepage": "https://github.com/fnobi/hinagata-plugin-gulp#readme"
+  "homepage": "https://github.com/fnobi/postman#readme"
 }

@@ -1,18 +1,18 @@
-gulp-hinagata-plugin-gulp
+gulp-postman
 ==============
 
-gulp hinagata-plugin-gulp plugin.
+gulp postman plugin.
 
 ## install
 
 ### from npm
 
 ```
-npm install gulp-hinagata-plugin-gulp
+npm install gulp-postman
 ```
 
 ### from github
 
 ```
-git clone git://github.com/fnobi/gulp-hinagata-plugin-gulp.git
+git clone git://github.com/fnobi/gulp-postman.git
 ```

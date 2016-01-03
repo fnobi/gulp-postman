@@ -1,1 +1,1 @@
-module.exports = require('./lib/hinagataPluginGulp');
+module.exports = require('./lib/postman');
