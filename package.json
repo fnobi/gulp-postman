@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fnobi/hinagata-plugin-gulp.git"
+    "url": "git+ssh://git@github.com/fnobi/gulp-hinagata-plugin-gulp.git"
   },
   "keywords": [
     "gulp"
@@ -19,8 +19,8 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "gulp-util": "^3.0.7",
-    "through2": "^2.0.0"
+    "gulp-util": "3.0.*",
+    "through2": "2.0.*"
   },
   "devDependencies": {
     "chai": "1.6.*",
