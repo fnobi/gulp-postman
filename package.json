@@ -1,0 +1,36 @@
+{
+  "name": "gulp-hinagata-plugin-gulp",
+  "version": "0.0.0",
+  "description": "gulp hinagata-plugin-gulp plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": "bin/hinagata-plugin-gulp",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fnobi/hinagata-plugin-gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Fujisawa Shin",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "1.6.*",
+    "grunt": "0.4.*",
+    "grunt-release": "0.13.*",
+    "mocha": "1.11.*"
+  },
+  "bugs": {
+    "url": "https://github.com/fnobi/hinagata-plugin-gulp/issues"
+  },
+  "homepage": "https://github.com/fnobi/hinagata-plugin-gulp#readme"
+}
