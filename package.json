@@ -6,7 +6,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "bin": "bin/hinagata-plugin-gulp",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/fnobi/hinagata-plugin-gulp.git"

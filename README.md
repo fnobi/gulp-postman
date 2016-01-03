@@ -1,4 +1,4 @@
-hinagata-plugin-gulp
+gulp-hinagata-plugin-gulp
 ==============
 
 gulp hinagata-plugin-gulp plugin.
@@ -8,11 +8,11 @@ gulp hinagata-plugin-gulp plugin.
 ### from npm
 
 ```
-npm install hinagata-plugin-gulp
+npm install gulp-hinagata-plugin-gulp
 ```
 
 ### from github
 
 ```
-git clone git://github.com/fnobi/hinagata-plugin-gulp.git
+git clone git://github.com/fnobi/gulp-hinagata-plugin-gulp.git
 ```
