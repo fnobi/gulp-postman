@@ -25,7 +25,7 @@ ejs sample.
 gulp.task 'html', ->
   gulp.src "ejs/*.ejs"
     .pipe postman
-      posts: "posts/*.md"
+      markdown: "posts/*.md"
       template: "ejs/article.ejs"
     .pipe ejs()
     .pipe gulp.dest "htdocs"
